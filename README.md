@@ -11,3 +11,4 @@ Suppose you work for a large real estate development company. Your company recei
 3. Create tickets with your company’s legal team using the information extracted from the email
 4. Forward and reply to emails that were sent to the wrong address
 5. 123456
+6. 1245555
